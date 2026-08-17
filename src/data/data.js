@@ -60,7 +60,7 @@ export const siteData = {
 
       {
 
-        highlight: "Feel Truly Renewed",
+        highlight: "Best Services Available",
         description:
           "Indulge in premium spa therapies created to restore your energy, refresh your body, and calm your mind.",
       },
