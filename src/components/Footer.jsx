@@ -277,7 +277,12 @@ export default function Footer() {
             <strong>deep tissue massage</strong>,{" "}
             <strong>Swedish massage</strong>,{" "}
             <strong>hot oil massage</strong>,{" "}
-            <strong>four hand massage</strong>,{" "}
+            <strong>Body to Body Massage</strong>,{" "}
+            <strong>Nuru Massage</strong>,{" "}
+            <strong>Relax with Beautiful Girls</strong>,{" "}
+            <strong>Happy Ending Massage</strong>,{" "}
+            <strong>Sandwich Massage</strong>,{" "}
+
             <strong>foot reflexology</strong> and relaxing
             spa therapies.
           </p>

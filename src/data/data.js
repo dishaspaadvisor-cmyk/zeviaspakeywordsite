@@ -100,7 +100,6 @@ export const servicesData = [
     description:
       "A gentle and relaxing massage designed to reduce stress, calm the body and improve overall relaxation.",
   },
-
   {
     id: 2,
     image: "/service/12.png",
@@ -108,7 +107,6 @@ export const servicesData = [
     description:
       "Focused massage techniques designed for tired muscles, body stiffness and deeper areas of tension.",
   },
-
   {
     id: 3,
     image: "/service/15.png",
@@ -116,7 +114,6 @@ export const servicesData = [
     description:
       "A traditional wellness experience combining relaxing movements for complete body and mind rejuvenation.",
   },
-
   {
     id: 4,
     image: "/service/17.png",
@@ -124,7 +121,6 @@ export const servicesData = [
     description:
       "Traditional massage techniques designed to support flexibility, movement and complete body relaxation.",
   },
-
   {
     id: 5,
     image: "/service/20.png",
@@ -132,7 +128,6 @@ export const servicesData = [
     description:
       "A soothing massage experience with aromatic oils created to calm the senses and refresh your mood.",
   },
-
   {
     id: 6,
     image: "/service/21.png",
@@ -140,7 +135,6 @@ export const servicesData = [
     description:
       "Warm stones and relaxing massage techniques help create a deeply comforting and peaceful experience.",
   },
-
   {
     id: 7,
     image: "/service/24.png",
@@ -148,7 +142,6 @@ export const servicesData = [
     description:
       "A complete body wellness treatment created to relieve everyday stress and help you feel refreshed.",
   },
-
   {
     id: 8,
     image: "/service/29.png",
@@ -156,13 +149,41 @@ export const servicesData = [
     description:
       "Enjoy a relaxing wellness experience together in a peaceful and comfortable spa atmosphere.",
   },
-
   {
     id: 9,
     image: "/service/30.png",
     title: "Premium Facial",
     description:
       "A refreshing facial treatment created to help your skin feel clean, hydrated and rejuvenated.",
+  },
+
+  {
+    id: 10,
+    image: "/service/31.png",
+    title: "Body to Body Massage",
+    description:
+      "A close-contact massage service focused on relaxation, comfort and a calming spa experience.",
+  },
+  {
+    id: 11,
+    image: "/service/32.png",
+    title: "B2B Massage",
+    description:
+      "A specialized massage experience designed to provide relaxation, comfort and complete body rejuvenation.",
+  },
+  {
+    id: 12,
+    image: "/service/33.png",
+    title: "Nuru Massage",
+    description:
+      "A smooth full-body massage experience using specialized techniques in a relaxing and private spa setting.",
+  },
+  {
+    id: 13,
+    image: "/service/34.png",
+    title: "Sandwich Massage",
+    description:
+      "A premium massage experience performed with coordinated techniques for deep relaxation and comfort.",
   },
 ];
 
@@ -320,6 +341,13 @@ export const footerData = {
     "Thai Massage",
     "Aromatherapy Massage",
     "Couple Spa",
+    "Hot Stone Massage",
+    "Body Massage",
+    "Body to Body Massage",
+    "B2B Massage",
+    "Nuru Massage",
+    "Sandwich Massage",
+
   ],
 
   quickLinks: [

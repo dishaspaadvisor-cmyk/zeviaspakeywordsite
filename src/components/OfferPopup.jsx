@@ -131,7 +131,7 @@ export default function OfferPopup() {
           <div className="offer-popup-image-wrapper">
             <img
               src="/heroimage/1d.jpg"
-              alt="Zevia Spa ₹1999 special spa offer in Jetalpur Road Vadodara"
+              alt="Zevia Spa ₹1499 special spa offer in Jetalpur Road Vadodara"
               className="offer-popup-image"
             />
 
@@ -186,7 +186,7 @@ export default function OfferPopup() {
                 </span>
 
                 <strong>
-                  ₹1,999
+                  ₹1,499
                 </strong>
               </div>
 

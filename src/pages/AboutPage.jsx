@@ -26,7 +26,7 @@ export default function AboutPage() {
 
       <PageHero
         title="About Zevia Spa"
-        description="Discover Zevia Spa, a peaceful wellness destination for full body massage, Thai massage, deep tissue massage, Swedish massage and premium relaxation therapies."
+        description="Discover Zevia Spa, a peaceful wellness destination for Body to Body Massage, Nuru Massage,Sandwich Massage,Happy Ending Massage, hot oil massage, aromatherapy massage, Balinese massage, foot reflexology, couple spa, romantic couple massage, female to male massage and premium spa packages."
       />
 
       <AboutSection />
@@ -34,7 +34,7 @@ export default function AboutPage() {
       <section className="about-seo-section">
         <div className="about-seo-container">
           <span className="about-seo-label">
-            RELAX • REFRESH • REJUVENATE
+            RELAX • REFRESH
           </span>
 
           <h2>Premium Spa & Full Body Massage Experience</h2>
@@ -55,8 +55,15 @@ export default function AboutPage() {
           <p>
             Our popular treatments include <strong>Thai massage</strong>,{" "}
             <strong>deep tissue massage</strong>,{" "}
-            <strong>Swedish massage</strong>,{" "}
+            <strong>Body to Body Massage</strong>,{" "}
+            <strong>Nuru Massage</strong>,{" "}
+                <strong>Sandwich Massage</strong>,{" "}
+            <strong>Female to Male Massage</strong>,{" "}
             <strong>hot oil massage</strong>,{" "}
+                <strong>Adult Massage</strong>,{" "}
+            <strong>Full Body Sensual Massage</strong>,{" "}
+            <strong>hot oil massage</strong>,{" "}
+            
             <strong>four hand massage</strong>, foot reflexology and Jacuzzi
             therapy.
           </p>
