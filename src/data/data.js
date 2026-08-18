@@ -164,13 +164,7 @@ export const servicesData = [
     description:
       "A close-contact massage service focused on relaxation, comfort and a calming spa experience.",
   },
-  {
-    id: 11,
-    image: "/service/32.png",
-    title: "B2B Massage",
-    description:
-      "A specialized massage experience designed to provide relaxation, comfort and complete body rejuvenation.",
-  },
+
   {
     id: 12,
     image: "/service/33.png",
