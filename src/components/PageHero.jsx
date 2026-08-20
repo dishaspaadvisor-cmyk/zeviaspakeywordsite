@@ -8,7 +8,7 @@ export default function PageHero({
     <section className="common-page-hero">
       <div className="common-page-content">
         <span className="common-page-small">
-          Zevia Spa
+          Aris Wellness Spa
         </span>
 
         <h1>

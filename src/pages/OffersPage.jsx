@@ -12,139 +12,113 @@ export default function OffersPage() {
     <>
       <Helmet>
         <title>
-          Spa Offers in Vadodara | Massage Offers Jetalpur Road | Zevia Spa
+          Spa Offers in Akola | Massage Offers | Aris Wellness Spa
         </title>
 
         <meta
           name="description"
-          content="Discover special spa offers in Vadodara at Zevia Spa near Jetalpur Road, Sampatrao Colony. Explore full body massage, Thai massage, deep tissue massage, Swedish massage, couple spa and luxury wellness packages."
+          content="Discover special spa offers in Akola at Aris Wellness Spa, Bill Mart Commercial Complex, Washim Bypass Chowk, Balapur Road, Shivsena Nagar. Explore full body massage, Thai massage, deep tissue massage, Swedish massage, couple spa and luxury wellness packages."
         />
 
         <meta
           name="keywords"
           content="
-            spa in Vadodara,
-            spa in Vadodara,
-            spa in Vadodara,
+            Aris Wellness Spa,
+            Aris Wellness Spa Akola,
 
-            best spa in Vadodara,
-            best spa in Vadodara,
+            spa in Akola,
+            best spa in Akola,
+            massage spa in Akola,
 
-            massage spa in Vadodara,
-            massage spa in Vadodara,
-
-            spa near Jetalpur Road Vadodara,
-            spa near Jetalpur Road Vadodara,
-
-            massage near Jetalpur Road Vadodara,
-            massage near Jetalpur Road Vadodara,
-
-            spa in Sampatrao Colony Vadodara,
-            massage spa in Sampatrao Colony Vadodara,
+            spa near Balapur Road Akola,
+            spa near Washim Bypass Akola,
+            spa near Washim Bypass Chowk Akola,
+            spa near Shivsena Nagar Akola,
+            spa near Nafees Bagh Akola,
+            spa near Bill Mart Commercial Complex Akola,
 
             spa near me,
-            spa near me,
-            spa near me,
-
-            massage near me,
-            massage near me,
             massage near me,
 
-            full body massage in Vadodara,
-            full body massage in Vadodara,
-            full body massage in Vadodara,
+            full body massage in Akola,
+            full body massage near me,
 
-            Thai massage in Vadodara,
-            Thai massage in Vadodara,
-            Thai massage in Vadodara,
+            Thai massage in Akola,
+            Thai massage near Balapur Road Akola,
+            Thai massage near Washim Bypass Akola,
 
-            deep tissue massage in Vadodara,
-            deep tissue massage in Vadodara,
+            deep tissue massage in Akola,
+            deep tissue massage near Balapur Road Akola,
 
-            Swedish massage in Vadodara,
-            Swedish massage in Vadodara,
+            Swedish massage in Akola,
+            Swedish massage near Balapur Road Akola,
 
-            hot oil massage in Vadodara,
-            four hand massage in Vadodara,
-            female to male massage in Vadodara,
+            hot oil massage in Akola,
+            four hand massage in Akola,
+            female to male massage in Akola,
 
-            couple spa in Vadodara,
-            couple spa in Vadodara,
+            couple spa in Akola,
+            couple spa near me,
 
-            couple massage in Vadodara,
-            romantic couple massage in Vadodara,
+            couple massage in Akola,
+            romantic couple massage in Akola,
+            couple romantic massage in Akola,
 
-            luxury spa in Vadodara,
-            luxury spa in Vadodara,
+            luxury spa in Akola,
             luxury spa near me,
 
-            wellness spa in Vadodara,
-            wellness center in Vadodara,
+            wellness spa in Akola,
+            wellness center in Akola,
 
-            day spa in Vadodara,
+            day spa in Akola,
             day spa near me,
 
-            body massage in Vadodara,
-            body massage in Vadodara,
+            body massage in Akola,
+            body massage near me,
 
-            body spa in Vadodara,
+            body spa in Akola,
             body spa near me,
 
-            massage center in Vadodara,
+            massage center in Akola,
             massage center near me,
 
-            aromatherapy massage in Vadodara,
-            reflexology in Vadodara,
-            Ayurvedic massage in Vadodara,
-            head massage in Vadodara,
-            foot massage in Vadodara,
-            back massage in Vadodara,
-            stress relief massage in Vadodara,
-            pain relief massage in Vadodara,
-            spa therapy in Vadodara,
-            neck and shoulder massage in Vadodara,
-            Balinese massage in Vadodara,
-            hot stone massage in Vadodara,
+            aromatherapy massage in Akola,
+            reflexology in Akola,
+            Ayurvedic massage in Akola,
+            head massage in Akola,
+            foot massage in Akola,
+            back massage in Akola,
 
-            professional massage therapist in Vadodara,
-            spa packages in Vadodara,
-            spa offers in Vadodara,
-            massage offers in Vadodara,
-            wellness packages in Vadodara,
+            stress relief massage in Akola,
+            pain relief massage in Akola,
+            spa therapy in Akola,
+            neck and shoulder massage in Akola,
+            Balinese massage in Akola,
+            Hot oil Massage in Akola,
 
-            special spa offers Vadodara,
-            best spa offers Vadodara,
-            massage packages Vadodara,
-            luxury spa packages Vadodara,
+            professional massage therapist in Akola,
 
-            sensual massage Vadodara,
-            sensual spa Vadodara,
-            full body sensual massage Vadodara,
-            adult massage Vadodara,
-            adult spa Vadodara,
+            spa packages in Akola,
+            spa packages near me,
 
-            body to body massage Vadodara,
-            B2B massage Vadodara,
-            Nuru massage Vadodara,
-            sandwich massage Vadodara,
+            spa offers in Akola,
+            massage offers in Akola,
+            wellness packages in Akola,
 
-            happy ending massage Vadodara,
-            best happy ending massage Vadodara,
+            special spa offers Akola,
+            best spa offers Akola,
+            massage packages Akola,
+            luxury spa packages Akola,
 
-            female to male massage Vadodara,
-            Russian massage girl Vadodara,
-            relax with beautiful girls Vadodara,
+            spa offers near Balapur Road Akola,
+            massage offers near Balapur Road Akola,
+            spa packages near Washim Bypass Akola,
+            massage packages near Washim Bypass Akola,
 
-            sensual massage near me,
-            body to body massage near me,
-            B2B massage near me,
-            Nuru massage near me,
-            female to male massage near me,
-
-            Zevia Spa Vadodara,
-            Zevia Spa Jetalpur Road,
-            Zevia Spa Sampatrao Colony,
-            Zevia Spa Gujarat
+            nearby spa massage,
+            nearby massage center,
+            nearest spa center,
+            best massage spa near me
           "
         />
 
@@ -160,12 +134,12 @@ export default function OffersPage() {
 
         <meta
           property="og:title"
-          content="Spa Offers in Vadodara | Zevia Spa Jetalpur Road"
+          content="Spa Offers in Akola | Aris Wellness Spa"
         />
 
         <meta
           property="og:description"
-          content="Explore exclusive spa and massage offers at Zevia Spa in Vadodara near Jetalpur Road and Sampatrao Colony."
+          content="Explore exclusive spa and massage offers at Aris Wellness Spa, Bill Mart Commercial Complex, Washim Bypass Chowk, Balapur Road, Shivsena Nagar, Akola."
         />
 
         <meta
@@ -175,7 +149,7 @@ export default function OffersPage() {
 
         <meta
           property="og:site_name"
-          content="Zevia Spa"
+          content="Aris Wellness Spa"
         />
 
         <meta
@@ -185,18 +159,18 @@ export default function OffersPage() {
 
         <meta
           name="twitter:title"
-          content="Spa Offers in Vadodara | Zevia Spa"
+          content="Spa Offers in Akola | Aris Wellness Spa"
         />
 
         <meta
           name="twitter:description"
-          content="Discover massage offers, spa packages and wellness treatments at Zevia Spa in Vadodara."
+          content="Discover massage offers, spa packages and wellness treatments at Aris Wellness Spa, Bill Mart Commercial Complex, Balapur Road, Akola."
         />
       </Helmet>
 
       <PageHero
         title="Special Offers"
-        description="Discover exclusive spa offers and wellness packages created for your perfect relaxing experience."
+        description="Discover exclusive spa offers and wellness packages at Aris Wellness Spa, Shop Nos. TD-19, TD-20 & TD-21, Third Floor, Bill Mart Commercial Complex, Washim Bypass Chowk, Balapur Road, Shivsena Nagar (Nafees Bagh), Akola - 444002, Maharashtra."
       />
 
       <section className="premium-offers-section">

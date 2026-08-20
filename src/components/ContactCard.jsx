@@ -110,7 +110,7 @@ export default function ContactCard() {
   };
 
   const whatsappMessage =
-    "Hi, I am visiting the Zevia Spa website. I would like to know about your spa services and today's availability.";
+    "Hi, I am visiting the Aris Wellness Spa website. I would like to know about your spa services and today's availability.";
 
   const whatsappUrl = `${
     contact.whatsappUrl
@@ -131,7 +131,7 @@ export default function ContactCard() {
           </h2>
 
           <p>
-            Contact Zevia Spa for services,
+            Contact Aris Wellness Spa for services,
             special offers and today's availability.
           </p>
         </div>
@@ -144,7 +144,7 @@ export default function ContactCard() {
 
           <div className="contact-redesign-info">
             <span className="contact-info-small">
-              Zevia Spa
+              Aris Wellness Spa
             </span>
 
             <h3>
@@ -330,7 +330,7 @@ export default function ContactCard() {
             <MapPin size={23} />
 
             <div>
-              <span>Visit Zevia Spa</span>
+              <span>Visit Aris Wellness Spa</span>
 
               <strong>
                 {contact.address}

@@ -96,7 +96,7 @@ export default function OfferPopup() {
   ========================================= */
 
   const whatsappMessage =
-    "Hi, I am visiting the Zevia Spa website. I would like to book the ₹1,999 special spa offer. Please share today's availability.";
+    "Hi, I am visiting the Aris Wellness Spa website. I would like to book the ₹1,999 special spa offer. Please share today's availability.";
 
   const whatsappUrl = `${
     contact.whatsappUrl
@@ -131,7 +131,7 @@ export default function OfferPopup() {
           <div className="offer-popup-image-wrapper">
             <img
               src="/heroimage/1d.jpg"
-              alt="Zevia Spa ₹1499 special spa offer in Jetalpur Road Vadodara"
+              alt="Aris Wellness Spa ₹1499 special spa offer in Akola"
               className="offer-popup-image"
             />
 
@@ -151,7 +151,7 @@ export default function OfferPopup() {
           <div className="offer-popup-content">
 
             <span className="offer-popup-small-title">
-              ZEViA SPA
+              Aris Wellness Spa
             </span>
             {/* =================================
                 COUNTDOWN TIMER

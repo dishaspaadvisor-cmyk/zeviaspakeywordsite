@@ -8,8 +8,8 @@ export default function SiteBackground() {
       <div
         className="site-fixed-background"
         style={{
-          "--desktop-bg": `url(${siteData.backgroundImages.desktop})`,
-          "--mobile-bg": `url(${siteData.backgroundImages.mobile})`,
+          "--desktop-bg": `url("${siteData.backgroundImages.desktop}")`,
+          "--mobile-bg": `url("${siteData.backgroundImages.mobile}")`,
         }}
       />
 

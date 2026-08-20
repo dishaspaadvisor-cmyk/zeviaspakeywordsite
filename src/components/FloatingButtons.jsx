@@ -15,7 +15,7 @@ export default function FloatingButtons() {
   const contact = siteData.contact;
 
   const whatsappMessage =
-    "Hi, I am visiting the Zevia Spa website. I would like to know more about your spa services and today's availability.";
+    "Hi, I am visiting the Aris Wellness Spa website. I would like to know more about your spa services and today's availability.";
 
   const whatsappUrl = `${
     contact?.whatsappUrl ||
@@ -28,7 +28,7 @@ export default function FloatingButtons() {
     const shareData = {
       title: siteData.name,
       text:
-        "Check out Zevia Spa for premium spa and wellness services.",
+        "Check out Aris Wellness Spa for premium spa and wellness services.",
       url: window.location.href,
     };
 
@@ -68,7 +68,7 @@ export default function FloatingButtons() {
           floating-action-item
           floating-call
         "
-        aria-label="Call Zevia Spa"
+        aria-label="Call Aris Wellness Spa"
       >
         <span className="floating-action-label">
           Call Now
@@ -90,7 +90,7 @@ export default function FloatingButtons() {
           floating-whatsapp
           floating-pulse
         "
-        aria-label="WhatsApp Zevia Spa"
+        aria-label="WhatsApp Aris Wellness Spa"
       >
         <span className="floating-action-label">
           WhatsApp
@@ -110,7 +110,7 @@ export default function FloatingButtons() {
           floating-action-item
           floating-share
         "
-        aria-label="Share Zevia Spa"
+        aria-label="Share Aris Wellness Spa"
       >
         <span className="floating-action-label">
           Share

@@ -17,7 +17,47 @@ export default function Header() {
     <header className="main-header">
       <div className="main-navbar">
 
-        {/* BIG IMAGE LOGO */}
+
+        {/* LOGO + SPA NAME */}
+        <Link
+          to="/"
+          className="main-logo"
+          onClick={closeMenu}
+          aria-label="Aris Wellness Spa"
+          style={{
+            display: "inline-flex",
+            alignItems: "center",
+            gap: "12px",
+            textDecoration: "none",
+          }}
+        >
+    
+
+          <span
+            style={{
+              color: "#f3b123",
+              fontFamily: 'Georgia, "Times New Roman", serif',
+              fontSize: "clamp(18px, 2vw, 25px)",
+              fontWeight: "600",
+              letterSpacing: "0.5px",
+              lineHeight: "1.1",
+              whiteSpace: "nowrap",
+              textShadow: "0 1px 2px rgba(0, 0, 0, 0.06)",
+            }}
+          >
+            Aris Wellness
+            <span
+              style={{
+                color: "#ffb253",
+                fontStyle: "italic",
+                marginLeft: "6px",
+              }}
+            >
+              Spa
+            </span>
+          </span>
+        </Link>
+        {/* BIG IMAGE LOGO
         <Link
           to="/"
           className="main-logo"
@@ -29,7 +69,7 @@ export default function Header() {
             alt={`${siteData.name} Logo`}
             className="main-logo-image"
           />
-        </Link>
+        </Link> */}
 
         {/* DESKTOP NAVIGATION */}
         <nav className="desktop-navbar">
@@ -39,8 +79,7 @@ export default function Header() {
               to={link.path}
               end={link.path === "/"}
               className={({ isActive }) =>
-                `desktop-nav-link ${
-                  isActive ? "desktop-nav-active" : ""
+                `desktop-nav-link ${isActive ? "desktop-nav-active" : ""
                 }`
               }
             >
@@ -78,9 +117,8 @@ export default function Header() {
 
       {/* MOBILE MENU */}
       <div
-        className={`mobile-menu ${
-          mobileMenu ? "mobile-menu-open" : ""
-        }`}
+        className={`mobile-menu ${mobileMenu ? "mobile-menu-open" : ""
+          }`}
       >
         <nav className="mobile-navigation">
           {siteData.navLinks.map((link) => (
@@ -90,8 +128,7 @@ export default function Header() {
               end={link.path === "/"}
               onClick={closeMenu}
               className={({ isActive }) =>
-                `mobile-nav-link ${
-                  isActive ? "mobile-nav-active" : ""
+                `mobile-nav-link ${isActive ? "mobile-nav-active" : ""
                 }`
               }
             >

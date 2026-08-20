@@ -55,7 +55,7 @@ export default function AboutSection() {
           <div className="about-feature-inner">
             <img
               src="/service/31.png"
-              alt="Zevia Spa"
+              alt="Aris Wellness Spa"
               className="about-feature-image"
             />
           </div>

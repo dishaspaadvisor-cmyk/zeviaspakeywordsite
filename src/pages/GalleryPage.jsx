@@ -12,226 +12,144 @@ export default function GalleryPage() {
     <>
       <Helmet>
         <title>
-          Zevia Spa Gallery | Luxury Spa, Massage & Wellness Ambience
+          Aris Wellness Spa Gallery Akola | Luxury Spa, Massage & Wellness
+          Ambience
         </title>
 
         <meta
           name="description"
-          content="Explore the Zevia Spa gallery and discover our relaxing spa ambience, premium massage rooms, luxury wellness spaces and peaceful environment for complete relaxation."
+          content="Explore the Aris Wellness Spa gallery at Bill Mart Commercial Complex, Washim Bypass Chowk, Balapur Road, Shivsena Nagar, Akola. Discover our relaxing spa ambience, premium massage rooms, luxury wellness spaces and peaceful environment."
         />
 
         <meta
           name="keywords"
           content="
-            Zevia Spa gallery,
-            spa gallery,
+            Aris Wellness Spa gallery,
+            Aris Wellness Spa Akola gallery,
+            spa gallery in Akola,
+            spa in Akola,
+            best spa in Akola,
             spa near me,
-            spa near me,
-            spa near me,
-            massage near me,
-            massage near me,
             massage near me,
 
-            luxury spa,
-            luxury spa,
-            luxury spa,
-            luxury spa near me,
-            luxury spa near me,
+            spa near Balapur Road Akola,
+            spa near Washim Bypass Akola,
+            spa near Washim Bypass Chowk Akola,
+            spa near Shivsena Nagar Akola,
+            spa near Nafees Bagh Akola,
+            spa near Bill Mart Commercial Complex Akola,
 
-            wellness spa,
-            wellness spa,
-            wellness center,
+            luxury spa in Akola,
+            luxury spa near me,
+            wellness spa in Akola,
+            wellness center in Akola,
             spa wellness center near me,
 
-            full body massage,
-            full body massage,
-            full body massage,
+            full body massage in Akola,
             full body massage near me,
 
-            Thai massage in Jetalpur Road, Vadodara ,
-            Thai massage in Jetalpur, Vadodara,
-            Thai massage in Jetalpur, Vadodara,,
+            Thai massage in Akola,
+            Thai massage near Balapur Road Akola,
+            Thai massage near Washim Bypass Akola,
             Thai massage near me,
 
-            deep tissue massage in Jetalpur, Vadodara,,
-            deep tissue massage in Jetalpur, Vadodara,,
-            deep tissue massage in Jetalpur, Vadodara,,
+            deep tissue massage in Akola,
+            deep tissue massage near Balapur Road Akola,
+            deep tissue massage near Washim Bypass Akola,
 
-            Swedish massage in Jetalpur, Vadodara,,
-            Swedish massage in Jetalpur, Vadodara,,
-            Swedish massage in Jetalpur, Vadodara,,
+            Swedish massage in Akola,
+            Swedish massage near Balapur Road Akola,
+            Swedish massage near Washim Bypass Akola,
 
-            hot oil massage in Jetalpur, Vadodara,,
-            hot oil massage in Jetalpur, Vadodara,,
-            hot oil massage in Jetalpur, Vadodara,,
+            hot oil massage in Akola,
+            hot oil massage near Balapur Road Akola,
+            hot oil massage near Washim Bypass Akola,
 
-            body spa in Jetalpur, Vadodara,,
+            body spa in Akola,
             body spa near me,
-            body spa near me,
 
-            massage spa in Jetalpur, Vadodara,,
-            massage spa near me,
+            massage spa in Akola,
+            massage spa near Balapur Road Akola,
+            massage spa near Washim Bypass Akola,
             massage spa near me,
 
-            couple spa in Jetalpur, Vadodara,,
-            couple spa,
+            couple spa in Akola,
             couple spa near me,
-
-            couple massage,
-            couple massage,
+            couple massage in Akola,
             romantic couple massage,
 
-            day spa,
+            day spa in Akola,
             day spa near me,
             nearest day spa,
 
-            relaxation spa,
-            relaxation massage,
+            relaxation spa in Akola,
+            relaxation massage in Akola,
             relaxation massage near me,
 
-            spa experience,
-            spa experience,
+            spa experience in Akola,
             luxury spa experience,
             premium spa experience,
 
-            spa ambience,
+            spa ambience in Akola,
             luxury spa ambience,
             relaxing spa ambience,
             peaceful spa environment,
 
-            spa rooms,
-            massage rooms in Jetalpur, Vadodara,,
-            luxury massage rooms in Jetalpur, Vadodara,,
-            premium spa rooms in Jetalpur, Vadodara,,
+            spa rooms in Akola,
+            massage rooms in Akola,
+            luxury massage rooms in Akola,
+            premium spa rooms in Akola,
 
-            spa interior,
-            luxury spa interior in Jetalpur, Vadodara,,
-            wellness spa interior in Jetalpur, Vadodara,,
+            spa interior in Akola,
+            luxury spa interior in Akola,
+            wellness spa interior in Akola,
 
-            spa photos,
+            spa photos Akola,
             massage spa photos,
             luxury spa photos,
             wellness spa gallery,
 
-            aromatherapy massage,
-            Balinese massage,
-            Ayurvedic massage,
-            hot stone massage,
+            aromatherapy massage in Akola,
+            Balinese massage in Akola,
+            Ayurvedic massage in Akola,
+            Hot oil Massage in Akola,
 
-            head massage in Jetalpur, Vadodara,,
-            back massage in Jetalpur, Vadodara,,
-            neck and shoulder massage in Jetalpur, Vadodara,
+            head massage in Akola,
+            back massage in Akola,
+            neck and shoulder massage in Akola,
 
-            stress relief massage,
-            pain relief massage,
-            spa therapy in Jetalpur, Vadodara,,
-            massage therapy in Jetalpur, Vadodara,,
+            stress relief massage in Akola,
+            pain relief massage in Akola,
+            spa therapy in Akola,
+            massage therapy in Akola,
 
-            professional massage therapist,
-            premium massage services,
-            spa and massage services,
+            professional massage therapist in Akola,
+            premium massage services in Akola,
+            spa and massage services in Akola,
 
             best spa near me,
-            best spa near me,
             best massage spa near me,
-            best massage spa near me,
-
             best body massage near me,
             best body spa near me,
 
-            massage center near me,
+            massage center in Akola,
             massage center near me,
 
             nearest spa centre,
             nearest spa center,
-
             nearby spa massage,
             nearby spa center,
             nearby massage center,
 
             local spa treatments near me,
-            luxury massage spa in Jetalpur, Vadodara,
+
+            luxury massage spa in Akola,
             luxury massage spa near me,
 
-            spa packages,
+            spa packages in Akola,
             spa packages near me
- 
-    couple massage,
-    couple massage,
-    romantic couple massage in Jetalpur, Vadodara,,
-    couple romantic massage in Jetalpur, Vadodara,,
-    spa packages in Jetalpur, Vadodara,,
-
-    body massage near me,
-    body spa near me,
-    massage spa near me,
-    massage center near me,
-    best massage spa near me,
-    best body massage near me,
-    luxury spa near me,
-    luxury massage spa,
-
-    sensual massage in Jetalpur, Vadodara,,
-    sensual massage in Jetalpur, Vadodara,,
-    sensual massage,
-    sensual spa,
-    sensual spa in Jetalpur, Vadodara,,
-    full body sensual massage,
-    full body sensual massage,
-
-    adult massage in Jetalpur, Vadodara,,
-    adult massage in Jetalpur, Vadodara,,
-    adult spa,
-    adult spa,
-
-
-    B2B massage in Jetalpur, Vadodara,,
-    B2B massage,
-
-    nuru massage in Jetalpur, Vadodara,,
-    nuru massage,
-    sandwich massage in Jetalpur, Vadodara,,
-    sandwich massage,
-
-    happy ending massage in Jetalpur, Vadodara,,
-    happy ending massage,
-    best happy ending massage in Jetalpur, Vadodara,,
-    best happy ending massage,
-
-    female to male massage in Jetalpur, Vadodara,,
-    female to male massage,
-    female to male massage,
-
-    Russian massage girl in Jetalpur, Vadodara,,
-    Russian massage girl,
-
-    relax with beautiful girls,
-    relax with beautiful girls,
-
-    romantic massage in Jetalpur, Vadodara,,
-    romantic massage spa,
-    sensual body massage in Jetalpur, Vadodara,,
-    full body sensual spa in Jetalpur, Vadodara,,
-    adult body massage,
-    adult massage spa in Jetalpur, Vadodara,,
-    body to body spa,
-    B2B spa,
-    female therapist massage in Jetalpur, Vadodara,
-    female massage therapist,
-    male relaxation massage,
-    couple romantic spa,
-    luxury sensual spa,`
-    sensual massage near me,
-    adult massage near me,
-    adult spa near me,
-    body to body massage near me,
-    B2B massage near me,
-    nuru massage near me,
-    female to male massage near me, 
-    happy ending massage near me
-  "
-  />
-
+          "
+        />
 
         <meta
           name="robots"
@@ -245,12 +163,12 @@ export default function GalleryPage() {
 
         <meta
           property="og:title"
-          content="Zevia Spa Gallery | Luxury Spa & Wellness Experience"
+          content="Aris Wellness Spa Gallery Akola | Luxury Spa & Wellness Experience"
         />
 
         <meta
           property="og:description"
-          content="View the Zevia Spa gallery featuring relaxing spa ambience, premium massage rooms and peaceful wellness spaces."
+          content="View the Aris Wellness Spa gallery at Bill Mart Commercial Complex, Washim Bypass Chowk, Balapur Road, Akola, featuring relaxing spa ambience, premium massage rooms and peaceful wellness spaces."
         />
 
         <meta
@@ -260,7 +178,7 @@ export default function GalleryPage() {
 
         <meta
           property="og:site_name"
-          content="Zevia Spa"
+          content="Aris Wellness Spa"
         />
 
         <meta
@@ -270,18 +188,18 @@ export default function GalleryPage() {
 
         <meta
           name="twitter:title"
-          content="Zevia Spa Gallery | Luxury Spa & Massage"
+          content="Aris Wellness Spa Gallery Akola | Luxury Spa & Massage"
         />
 
         <meta
           name="twitter:description"
-          content="Explore Zevia Spa's relaxing ambience, massage rooms and premium wellness spaces."
+          content="Explore Aris Wellness Spa's relaxing ambience, massage rooms and premium wellness spaces at Bill Mart Commercial Complex, Balapur Road, Akola."
         />
       </Helmet>
 
       <PageHero
         title="Our Gallery"
-        description="Take a look at our relaxing spa ambience, premium wellness spaces and peaceful environment."
+        description="Explore Aris Wellness Spa at Bill Mart Commercial Complex, Washim Bypass Chowk, Balapur Road, Shivsena Nagar, Akola and discover our relaxing spa ambience, premium wellness spaces and peaceful environment."
       />
 
       <section className="gallery-main-section">
@@ -297,9 +215,11 @@ export default function GalleryPage() {
             </h2>
 
             <p>
-              Explore our spa atmosphere and wellness spaces
-              designed to provide comfort, calmness and a
-              refreshing experience.
+              Explore the relaxing atmosphere of Aris Wellness Spa in Akola,
+              located at Bill Mart Commercial Complex near Washim Bypass
+              Chowk, Balapur Road, Shivsena Nagar. Our wellness spaces are
+              designed to provide comfort, calmness and a refreshing spa
+              experience.
             </p>
           </div>
 

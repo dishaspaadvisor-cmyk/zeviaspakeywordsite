@@ -27,13 +27,12 @@ export default function Footer() {
   const contact = siteData.contact;
 
   const whatsappMessage =
-    "Hi, I am visiting the Zevia Spa website. I would like to know more about your spa services and today's availability.";
+    "Hi, I am visiting the Aris Wellness Spa website. I would like to know more about your spa services and today's availability.";
 
-  const whatsappUrl = `${
-    contact.whatsappUrl
-  }?text=${encodeURIComponent(
-    whatsappMessage
-  )}`;
+  const whatsappUrl = `${contact.whatsappUrl
+    }?text=${encodeURIComponent(
+      whatsappMessage
+    )}`;
 
   return (
     <footer className="site-footer">
@@ -53,14 +52,52 @@ export default function Footer() {
             <Link
               to="/"
               className="main-logo"
-              aria-label={`${siteData.name} - Spa in Jetalpur Road Vadodara`}
+              aria-label="Aris Wellness Spa - Spa in Akola"
+              style={{
+                display: "inline-flex",
+                alignItems: "center",
+                gap: "12px",
+                textDecoration: "none",
+              }}
+            >
+
+              <span
+                style={{
+                  fontFamily: 'Georgia, "Times New Roman", serif',
+                  fontSize: "clamp(18px, 2vw, 25px)",
+                  fontWeight: "600",
+                  lineHeight: "1.1",
+                  letterSpacing: "0.4px",
+                  color: "#df8d22",
+                  whiteSpace: "nowrap",
+                }}
+              >
+                Aris Wellness
+                <span
+                  style={{
+                    marginLeft: "6px",
+                    color: "#c5965b",
+                    fontStyle: "italic",
+                    fontWeight: "500",
+                  }}
+                >
+                  Spa
+                </span>
+              </span>
+            </Link>
+
+
+            {/* <Link
+              to="/"
+              className="main-logo"
+              aria-label={`${siteData.name} - Spa in Akola`}
             >
               <img
                 src="/logo/favicon.png"
-                alt={`${siteData.name} Spa in Jetalpur Road Vadodara`}
+                alt={`${siteData.name} Spa in Akola`}
                 className="main-logo-image"
               />
-            </Link>
+            </Link> */}
 
             <p className="footer-description">
               {footerData.description}
@@ -73,7 +110,7 @@ export default function Footer() {
                 href={footerData.socialLinks.facebook}
                 target="_blank"
                 rel="noreferrer"
-                aria-label="Zevia Spa Facebook"
+                aria-label="Aris Wellness Spa Facebook"
               >
                 <FaFacebookF />
               </a>
@@ -82,7 +119,7 @@ export default function Footer() {
                 href={footerData.socialLinks.instagram}
                 target="_blank"
                 rel="noreferrer"
-                aria-label="Zevia Spa Instagram"
+                aria-label="Aris Wellness Spa Instagram"
               >
                 <FaInstagram />
               </a>
@@ -91,7 +128,7 @@ export default function Footer() {
                 href={footerData.socialLinks.youtube}
                 target="_blank"
                 rel="noreferrer"
-                aria-label="Zevia Spa YouTube"
+                aria-label="Aris Wellness Spa YouTube"
               >
                 <FaYoutube />
               </a>
@@ -100,7 +137,7 @@ export default function Footer() {
                 href={footerData.socialLinks.pinterest}
                 target="_blank"
                 rel="noreferrer"
-                aria-label="Zevia Spa Pinterest"
+                aria-label="Aris Wellness Spa Pinterest"
               >
                 <FaPinterestP />
               </a>
@@ -109,7 +146,7 @@ export default function Footer() {
                 href={whatsappUrl}
                 target="_blank"
                 rel="noreferrer"
-                aria-label="Contact Zevia Spa on WhatsApp"
+                aria-label="Contact Aris Wellness Spa on WhatsApp"
               >
                 <FaWhatsapp />
               </a>
@@ -133,7 +170,7 @@ export default function Footer() {
                   <li key={service}>
                     <Link
                       to="/services"
-                      aria-label={`${service} in Jetalpur Road Vadodara`}
+                      aria-label={`${service} in Akola`}
                     >
                       <ArrowRight size={13} />
 
@@ -179,7 +216,7 @@ export default function Footer() {
             </span>
 
             <h3>
-              Visit Zevia Spa in Jetalpur Road, Vadodara
+              Visit Aris Wellness Spa in , Akola
             </h3>
 
             <div className="footer-contact-list">
@@ -266,22 +303,18 @@ export default function Footer() {
 
         <div className="footer-seo-content">
           <h2>
-            Spa & Massage Services in Jetalpur Road, Vadodara
+            Spa & Massage Services in , Akola
           </h2>
 
           <p>
-            Zevia Spa in Jetalpur Road, Vadodara offers
+            Aris Wellness Spa in  Akola offers
             premium wellness and massage services including{" "}
             <strong>full body massage</strong>,{" "}
             <strong>Thai massage</strong>,{" "}
             <strong>deep tissue massage</strong>,{" "}
             <strong>Swedish massage</strong>,{" "}
             <strong>hot oil massage</strong>,{" "}
-            <strong>Body to Body Massage</strong>,{" "}
-            <strong>Nuru Massage</strong>,{" "}
-            <strong>Relax with Beautiful Girls</strong>,{" "}
-            <strong>Happy Ending Massage</strong>,{" "}
-            <strong>Sandwich Massage</strong>,{" "}
+
 
             <strong>foot reflexology</strong> and relaxing
             spa therapies.
@@ -291,10 +324,10 @@ export default function Footer() {
             If you are searching for a{" "}
             <strong>spa near me</strong>,{" "}
             <strong>massage near me</strong>,{" "}
-            <strong>body massage in Vadodara</strong>,{" "}
-            <strong>luxury spa in Vadodara</strong> or a{" "}
-            <strong>massage spa in Jetalpur Road Vadodara</strong>,
-            connect with Zevia Spa for service information
+            <strong>body massage in Akola</strong>,{" "}
+            <strong>luxury spa in Akola</strong> or a{" "}
+            <strong>massage spa in Akola</strong>,
+            connect with Aris Wellness Spa for service information
             and today's availability.
           </p>
         </div>
@@ -318,7 +351,7 @@ export default function Footer() {
             <a
               href={contact.phoneUrl}
               className="footer-call-button"
-              aria-label="Call Zevia Spa Jetalpur Road Vadodara"
+              aria-label="Call Aris Wellness Spa Akola"
             >
               <Phone size={17} />
               Call Now
@@ -329,7 +362,7 @@ export default function Footer() {
               target="_blank"
               rel="noreferrer"
               className="footer-whatsapp-button"
-              aria-label="WhatsApp Zevia Spa Jetalpur Road Vadodara"
+              aria-label="WhatsApp Aris Wellness Spa Akola"
             >
               <FaWhatsapp size={18} />
               WhatsApp

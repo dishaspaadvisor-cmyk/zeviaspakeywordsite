@@ -1,16 +1,16 @@
 // src/data/data.js
 export const siteData = {
-  phone: "+919998409757",
+  phone: "+918422832294",
 
-  phoneUrl: "tel:+919998409757",
+  phoneUrl: "tel:+918422832294",
 
-  whatsappNumber: "919998409757",
+  whatsappNumber: "918422832294",
 
-  whatsappUrl: "https://wa.me/919998409757",
+  whatsappUrl: "https://wa.me/918422832294",
 
   backgroundImages: {
-    desktop: "/heroimage/6.jpg",
-    mobile: "/heroimage/4m.jpg",
+    desktop: "/service/hero (1).png",
+    mobile: "/service/28.png",
   },
 
   navLinks: [
@@ -26,10 +26,10 @@ export const siteData = {
       name: "About",
       path: "/about",
     },
-    {
-      name: "Offers",
-      path: "/offers",
-    },
+    // {
+    //   name: "Offers",
+    //   path: "/offers",
+    // },
     {
       name: "Gallery",
       path: "/gallery",
@@ -46,7 +46,7 @@ export const siteData = {
     slides: [
       {
 
-        highlight: "No.1 Spa in Jetalpur,Vadodara  ",
+        highlight: "No.1 Spa in Akola  ",
         description:
           "Experience premium massage therapies and wellness treatments in a peaceful and relaxing atmosphere.",
       },
@@ -68,128 +68,107 @@ export const siteData = {
   },
 
   contact: {
-    formKey: "Zevia Spa",
+    formKey: "Aris Wellness Spa",
 
-    phone: "+919998409757",
+    phone: "+918422832294",
 
-    phoneUrl: "tel:+919998409757",
+    phoneUrl: "tel:+918422832294",
 
-    whatsappUrl: "https://wa.me/919998409757",
+    whatsappUrl: "https://wa.me/918422832294",
 
-    email: "zeviaspa@gmail.com",
+    email: "ArisWellnessSpa@gmail.com",
 
     emailUrl: "mailto:zeviaspa@gmail.com",
 
     address:
-      "Office No. 302, Third Floor, Trisha Square, Sampatrao Colony, Jetalpur Road, Sudhanagar, Jetalpur, Vadodara, District Vadodara, Gujarat - 390020",
+      "Shop Nos. TD-19, TD-20 & TD-21, Third Floor, Bill Mart Commercial Complex, Washim Bypas, Chowk, Balapur Road, Shivsena Nagar (Nafees Bagh), Akola - 444002, Maharashtra, India",
 
     days: "Monday - Sunday",
 
     time: "10:00 AM - 11:00 PM",
 
     mapUrl:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.2132905039275!2d73.17277187599383!3d22.307771842623335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395fc8ae6e583d9d%3A0x3e1c5df456394c3e!2sTrisha%20Square%20-%20II!5e0!3m2!1sen!2sin!4v1786966386936!5m2!1sen!2sin",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29857.157488505916!2d76.980204822249!3d20.70434847533524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd73179ad1df98b%3A0x36622a2d8d15221e!2sBILL%20MART%20Commercial%20Complex!5e0!3m2!1sen!2sin!4v1787208029062!5m2!1sen!2sin",
   },
 };
 
 export const servicesData = [
   {
     id: 1,
-    image: "/service/11.png",
+    image: "/services/19.png",
     title: "Swedish Massage",
     description:
       "A gentle and relaxing massage designed to reduce stress, calm the body and improve overall relaxation.",
   },
   {
     id: 2,
-    image: "/service/12.png",
+    image: "/services/12.png",
     title: "Deep Tissue Massage",
     description:
       "Focused massage techniques designed for tired muscles, body stiffness and deeper areas of tension.",
   },
   {
     id: 3,
-    image: "/service/15.png",
+    image: "/services/15.png",
     title: "Balinese Massage",
     description:
       "A traditional wellness experience combining relaxing movements for complete body and mind rejuvenation.",
   },
   {
     id: 4,
-    image: "/service/17.png",
+    image: "/services/17.png",
     title: "Thai Massage",
     description:
       "Traditional massage techniques designed to support flexibility, movement and complete body relaxation.",
   },
   {
     id: 5,
-    image: "/service/20.png",
+    image: "/services/36.png",
     title: "Aromatherapy Massage",
     description:
       "A soothing massage experience with aromatic oils created to calm the senses and refresh your mood.",
   },
   {
     id: 6,
-    image: "/service/21.png",
-    title: "Hot Stone Massage",
+    image: "/services/10.png",
+    title: "Hot oil Massage",
     description:
-      "Warm stones and relaxing massage techniques help create a deeply comforting and peaceful experience.",
+      "Warm oils and soothing techniques for deep relaxation.",
   },
   {
     id: 7,
     image: "/service/24.png",
-    title: "Body Massage",
+    title: "Full Body Massage",
     description:
       "A complete body wellness treatment created to relieve everyday stress and help you feel refreshed.",
   },
   {
     id: 8,
-    image: "/service/29.png",
-    title: "Couple Spa",
+    image: "/service/34.png",
+    title: "Male to Female",
     description:
       "Enjoy a relaxing wellness experience together in a peaceful and comfortable spa atmosphere.",
   },
   {
     id: 9,
-    image: "/service/30.png",
-    title: "Premium Facial",
+    image: "/service/1.png",
+    title: "Jacuzzi Massage",
     description:
-      "A refreshing facial treatment created to help your skin feel clean, hydrated and rejuvenated.",
+      "Luxury hydrotherapy for complete rejuvenation.",
   },
 
-  {
-    id: 10,
-    image: "/service/31.png",
-    title: "Body to Body Massage",
-    description:
-      "A close-contact massage service focused on relaxation, comfort and a calming spa experience.",
-  },
 
-  {
-    id: 12,
-    image: "/service/33.png",
-    title: "Nuru Massage",
-    description:
-      "A smooth full-body massage experience using specialized techniques in a relaxing and private spa setting.",
-  },
-  {
-    id: 13,
-    image: "/service/34.png",
-    title: "Sandwich Massage",
-    description:
-      "A premium massage experience performed with coordinated techniques for deep relaxation and comfort.",
-  },
 ];
 
 // src/data/data.js
 
 export const aboutData = {
-  smallTitle: "About Zevia Spa",
+  smallTitle: "About Aris Wellness Spa",
 
   title: "A Peaceful Space For Complete Relaxation",
 
   description1:
-    "Zevia Spa is created for guests who want to step away from daily stress and enjoy a calm, comfortable and refreshing wellness experience.",
+    "Aris Wellness Spa is created for guests who want to step away from daily stress and enjoy a calm, comfortable and refreshing wellness experience.",
 
   description2:
     "Our focus is on peaceful ambience, relaxing spa treatments and professional service designed to help you feel refreshed and rejuvenated.",
@@ -246,7 +225,7 @@ export const offersData = [
       "Enjoy a peaceful spa experience together with a premium wellness package designed for two.",
 
     whatsappMessage:
-      "Hi, I am visiting the Zevia Spa website. I am interested in the Couples Offer. Please share details and availability.",
+      "Hi, I am visiting the Aris Wellness Spa website. I am interested in the Couples Offer. Please share details and availability.",
   },
 
   {
@@ -263,7 +242,7 @@ export const offersData = [
       "Choose from our premium spa services and enjoy special offer pricing on selected wellness treatments.",
 
     whatsappMessage:
-      "Hi, I am visiting the Zevia Spa website. I want to know about the All Services Offer. Please share details.",
+      "Hi, I am visiting the Aris Wellness Spa website. I want to know about the All Services Offer. Please share details.",
   },
 
   {
@@ -280,7 +259,7 @@ export const offersData = [
       "Enjoy special wellness benefits and exclusive spa offers created for our regular members.",
 
     whatsappMessage:
-      "Hi, I am visiting the Zevia Spa website. I am interested in the Members Offer. Please share membership details.",
+      "Hi, I am visiting the Aris Wellness Spa website. I am interested in the Members Offer. Please share membership details.",
   },
 ];
 // src/data/data.js
@@ -326,7 +305,7 @@ export const galleryData = [
 
 export const footerData = {
   description:
-    "Zevia Spa is a premium wellness destination created for relaxation, comfort and rejuvenation. Discover peaceful spa experiences designed to refresh your body and mind.",
+    "Aris Wellness Spa is a premium wellness destination created for relaxation, comfort and rejuvenation. Discover peaceful spa experiences designed to refresh your body and mind.",
 
   services: [
     "Swedish Massage",
@@ -335,12 +314,9 @@ export const footerData = {
     "Thai Massage",
     "Aromatherapy Massage",
     "Couple Spa",
-    "Hot Stone Massage",
+    "Hot oil Massage",
     "Body Massage",
-    "Body to Body Massage",
-    "B2B Massage",
-    "Nuru Massage",
-    "Sandwich Massage",
+
 
   ],
 

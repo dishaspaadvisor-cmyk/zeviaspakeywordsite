@@ -37,7 +37,7 @@ export default function HeroSection() {
    * WHATSAPP MESSAGE
    */
   const whatsappMessage =
-    "Hi, I am visiting the Zevia Spa website. I would like to know about your spa services and today's availability.";
+    "Hi, I am visiting the Aris Wellness Spa website. I would like to know about your spa services and today's availability.";
 
   const whatsappUrl = `${
     siteData.whatsappUrl
